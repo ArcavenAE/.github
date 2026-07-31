@@ -1,15 +1,13 @@
-# Arcaven Agentic Engineering
-
-> 🚧 **Pardon the construction — we're just getting started.** Some
-> projects are useful today; others are designs or early builds. The tour
-> below says which is which.
-
 [![Arcaven Agentic Engineering ecosystem map showing content packs, fleet orchestration, agent sessions, memory, evaluation, triage, onboarding, and work tracking](assets/arcavenae-ecosystem.png)](assets/arcavenae-ecosystem.png)
 
 ArcavenAE follows the Unix philosophy: small, composable tools for
 operating teams of AI agents. Each does one job, works on its own, and
 connects through inspectable seams: files, command lines, tmux, and
 signed artifacts. Use what you want.
+
+> 🚧 **Pardon the construction — we're just getting started.** Some
+> projects are useful today; others are designs or early builds. The tour
+> below says which is which.
 
 ## The tour
 
