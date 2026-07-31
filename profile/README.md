@@ -1,5 +1,9 @@
 # Arcaven Agentic Engineering
 
+[![Arcaven Agentic Engineering ecosystem map showing content packs, fleet orchestration, agent sessions, memory, evaluation, triage, onboarding, and work tracking](assets/arcavenae-ecosystem.png)](assets/arcavenae-ecosystem.png)
+
+*The ArcavenAE ecosystem. Select the map to view it at full resolution.*
+
 A toolkit for running many AI agents as an organization: schedule and
 supervise them, keep what they learn, retrieve it when it matters, reach
 them on any host, configure them from signed packages, and measure what
