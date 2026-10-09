@@ -26,7 +26,7 @@ signed artifacts. Use what you want.
 | Project | Function | State |
 |---|---|---|
 | [director](https://github.com/ArcavenAE/director) | Supervisor communications for running work across many agent sessions, harnesses, and hosts. Today it is a skill a session plays by hand, plus a message bus probe (NATS) that carries its envelope between sessions. | simulation with a proven transport; the software is not built |
-| [forestage](https://github.com/ArcavenAE/forestage) | An opinionated wrapper for Claude Code with persona theming, configurable defaults, and tmux session management. | usable; alpha releases |
+| [forestage](https://github.com/ArcavenAE/forestage) | An opinionated wrapper for Claude Code with persona theming, configurable defaults, and tmux session management. | an exploration; alpha releases, first stable release pending |
 | [tmux-cmc](https://github.com/ArcavenAE/tmux-cmc) | A Rust client for tmux control mode: one persistent connection, with responses and notifications routed by serial number. marvel and forestage use it. | usable, pre-1.0; not yet on crates.io |
 | [callbook](https://github.com/ArcavenAE/callbook) | Work and task tracking for teams of people and agents, built on beads and Dolt, with deployment recipes from a laptop to a replicated service on Kubernetes. | early; the production recipe is deployed and the kit is being generalized; the agent-fleet mode is a design |
 | [sideshow-packs](https://github.com/ArcavenAE/sideshow-packs) | The publishing pipeline that builds signed, frozen sideshow packs (cosign keyless, with an SBOM), so users never execute untrusted build scripts. | MVP; releases through `bmad-v6.12.0-r2` |
